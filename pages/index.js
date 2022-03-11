@@ -14,7 +14,9 @@ export default function Home() {
         <div style={{padding:"0 10%", textAlign: "center" }} >
           <h1>Tools</h1>
           <h3 style={{padding: "0 0 35px", lineHeight: "150%"}}>
-            Links will give you full retail price. <span style={{fontStyle: "italic", textDecoration: "underline"}}>I&nbsp;will discount</span> full retail price. <br/>If interested text <a href={"sms:4153006809"} style={{textDecoration: "none"}}>415-300-6809</a>
+            Links will give you full retail price. <br/>
+            <span style={{fontStyle: "italic", textDecoration: "underline"}}>I&nbsp;will discount retail price</span>. <br/>
+            Interested text <a href={"sms:4153006809"} style={{textDecoration: "none"}}>415-300-6809</a>
             </h3>
         <a href={"https://www.homedepot.com/p/Makita-18-Volt-5-0Ah-X2-LXT-Lithium-Ion-36V-Brushless-Cordless-10-in-Dual-Bevel-Sliding-Compound-Miter-Saw-with-Laser-Kit-XSL06PT/302255047"} target={"blank"}>
           <div style={{paddingBottom: "35px"}}>
@@ -46,7 +48,7 @@ export default function Home() {
             </p>
           </div>
           </a>
-          
+
           <a href={"https://www.walmart.com/ip/Goodyear-8-Gallon-Quiet-Oil-Free-Horizontal-Air-Compressor-Portable-with-Handle-and-Wheels/896759384?wmlspartner=wlpa&selectedSellerId=0&wl13=2648&adid=22222222277896759384_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-293946777986&wl5=9032089&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=896759384&wl13=2648&veh=sem_LIA&gclid=CjwKCAiAg6yRBhBNEiwAeVyL0C2wIhkasm8Za_WgCWvZ0TiyEs5YoTXjKdlYqt7tmochSOrPkqPehBoCokoQAvD_BwE&gclsrc=aw.ds"} target={"blank"}>
             <div style={{paddingBottom: "35px"}}>
                 <img src={"https://i5.walmartimages.com/asr/ff0fb98d-51e7-4647-90d4-7e40517bd21c.864a9c632f93daccbf8aa48bd852b716.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"} style={{width: "100%", maxWidth: "300px"}}/>
