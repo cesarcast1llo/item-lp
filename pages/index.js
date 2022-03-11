@@ -11,11 +11,10 @@ export default function Home() {
 
       <main>
         {/* <Header title="Tools" /> */}
-
         <div style={{padding:"0 10%", textAlign: "center" }} >
           <h1>Tools</h1>
-          <h3 style={{padding: "0 0 35px"}}>
-            Links will give you full retail price. I&nbsp;will discount full retail price. <br/>If interested text <a href={"sms:4153006809"} style={{textDecoration: "none"}}>415-300-6809</a>
+          <h3 style={{padding: "0 0 35px", lineHeight: "150%"}}>
+            Links will give you full retail price. <span style={{fontStyle: "italic", textDecoration: "underline"}}>I&nbsp;will discount</span> full retail price. <br/>If interested text <a href={"sms:4153006809"} style={{textDecoration: "none"}}>415-300-6809</a>
             </h3>
         <a href={"https://www.homedepot.com/p/Makita-18-Volt-5-0Ah-X2-LXT-Lithium-Ion-36V-Brushless-Cordless-10-in-Dual-Bevel-Sliding-Compound-Miter-Saw-with-Laser-Kit-XSL06PT/302255047"} target={"blank"}>
           <div style={{paddingBottom: "35px"}}>
@@ -29,6 +28,16 @@ export default function Home() {
             <p style={{textAlign: "center"}}>Makit 18-Volt 5.0Ah X2 LXT Lithium-Ion (36V) Brushless Cordless 10 in. Dual-Bevel Sliding Compound Miter Saw with Laser Kit</p>
           </div>
           </a>
+          
+          <a href={"https://www.lowes.com/pd/DEWALT-XR-2-Tool-20-Volt-Max-Brushless-Power-Tool-Combo-Kit-with-Soft-Case-Charger-Included-and-2-Batteries-Included/50435754"} target={"blank"}>
+          <div style={{paddingBottom: "35px"}}>
+              <img src={"https://mobileimages.lowes.com/productimages/df8a4d96-e8ef-473e-92ac-e9d7651faf0f/04767635.jpg?size=pdhi"} style={{width: "100%", maxWidth: "300px"}}/>
+            <p style={{textAlign: "center"}}>
+            DEWALT XR 2-Tool 20-Volt Max Brushless Power Tool Combo Kit with Soft Case (2-Batteries and charger Included)
+            </p>
+          </div>
+          </a>
+
           <a href={"https://www.homedepot.com/p/DEWALT-20-Volt-MAX-Compact-Lithium-Ion-2-0-Ah-Battery-Pack-2-Pack-and-20-Volt-MAX-XR-Lithium-Ion-Battery-Pack-4-0-Ah-2-Pack-DCB324-4/310112065?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CA-_-Product_URL&ecc_ord=WD96705359&em_id=75652e6f2d5bfcd8bf34d3f2627b524ae359b3438da9f0ec7ffd650a58b928b6"} target={"blank"}>
           <div style={{paddingBottom: "35px"}}>
               <img src={"https://images.thdstatic.com/productImages/aacc831e-3f9f-4f70-bac1-a3dae7c882ac/svn/dewalt-power-tool-batteries-dcb324-4-64_600.jpg"} style={{width: "100%", maxWidth: "300px"}}/>
