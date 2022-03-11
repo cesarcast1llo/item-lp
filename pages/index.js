@@ -15,7 +15,7 @@ export default function Home() {
         <div style={{padding:"0 10%", textAlign: "center" }} >
           <h1>Tools</h1>
           <h3 style={{padding: "0 0 35px"}}>
-            Text: <a href={{sms: 4153006809}} style={{textDecoration: "none"}}>415-300-6809</a>
+            Links will give you full retail price, if interested text <a href={{sms: 4153006809}} style={{textDecoration: "none"}}>415-300-6809</a>
             </h3>
         <a href="https://www.homedepot.com/p/Makita-18-Volt-5-0Ah-X2-LXT-Lithium-Ion-36V-Brushless-Cordless-10-in-Dual-Bevel-Sliding-Compound-Miter-Saw-with-Laser-Kit-XSL06PT/302255047" target={"blank"}>
           <div style={{paddingBottom: "35px"}}>
