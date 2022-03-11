@@ -20,7 +20,7 @@ export default function Home() {
         <a href="https://www.homedepot.com/p/Makita-18-Volt-5-0Ah-X2-LXT-Lithium-Ion-36V-Brushless-Cordless-10-in-Dual-Bevel-Sliding-Compound-Miter-Saw-with-Laser-Kit-XSL06PT/302255047" target={"blank"}>
           <div style={{paddingBottom: "35px"}}>
               <img src="https://images.thdstatic.com/productImages/0ef86d91-c4c3-40da-9afe-332072b5c6bd/svn/makita-miter-saws-xsl06pt-64_600.jpg" style={{width: "100%", maxWidth: "300px"}}/>
-            <p style={{textAlign: "center"}}>Makit 18-Volt 5.0Ah X2 LXT Lithium-Ion (36V) Brushless Cordless 10 in. Dual-Bevel Sliding Compound Miter Saw with Laser Kit</p>
+            <p style={{textAlign: "center"}}>Makita 18-Volt 5.0Ah X2 LXT Lithium-Ion (36V) Brushless Cordless 10 in. Dual-Bevel Sliding Compound Miter Saw with Laser Kit</p>
           </div>
           </a>
           <a href="https://www.homedepot.com/p/DEWALT-20-Volt-MAX-Cordless-Combo-Kit-7-Tool-with-ToughSystem-Case-1-20-Volt-4-0Ah-Battery-2-20-Volt-2-0Ah-Batteries-DCKTS781D2M1/312585400" target={"blank"}>
